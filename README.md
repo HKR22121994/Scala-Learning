@@ -5,7 +5,7 @@
 # Timeline
 | Day :pushpin: | Date :date:  | Lessons/Tasks :books:                     |Progress :heavy_check_mark:/:x:                |   Reference :link:                                 |
 | ------------- |:------------:| ------------------------------------------|:---------------------------------------------:|----------------------------------------------------|
-| Day 1         | Sep 14 2020  |                                           | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>   |     |
+| Day 1         | Sep 14 2020  |                                           |<li>- [x] In Progress</li><li>- [ ] Complete</li>   |     |
 | Day 2         | Sep 15 2020  |                                           |-[] In Progress -[] Complete -[] incomplete    |                                                    |
 | Day 3         | Sep 16 2020  |                                           |-[] In Progress -[] Complete -[] incomplete    |                                                    |
 | Day 4         | Sep 17 2020  |                                           |                                               |                                                    |
