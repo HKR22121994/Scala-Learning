@@ -1,5 +1,6 @@
 # Scala-Learning- Path
 **Harshit Rathore**
+
 *Software Engineer,Diaspark*
 
 # Timeline
