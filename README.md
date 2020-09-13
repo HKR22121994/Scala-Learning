@@ -16,3 +16,13 @@
 | Day 9         | Sep 22 2020  |                                           |                                            |                                                       |
 | Day 10        | Sep 23 2020  |                                           |                                            |                                                       |
 
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
