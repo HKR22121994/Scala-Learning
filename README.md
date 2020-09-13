@@ -1,5 +1,6 @@
-# Scala-Learning
-Learning Scala Path
+# Scala-Learning- Path
+**Harshit Rathore**
+*Software Engineer,Diaspark*
 
 # Timeline
 | Day :pushpin: | Date :date:  | Lessons/Tasks :books:                     |   Reference :link:                                    |
@@ -15,3 +16,4 @@ Learning Scala Path
 | Day 9         | Sep 22 2020  |                                           |                                                       |
 | Day 10        | Sep 23 2020  |                                           |                                                       |
 | Day 11        | Sep 24 2020  |                                           |                                                       |
+
